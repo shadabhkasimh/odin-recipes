@@ -5,9 +5,3 @@
 #### OS - ***Linux Xubuntu running on VM VirtualBox***
 #### Text Editor - ***VS Code***
 #### Skills employed - ***HTML***, ***GIT Commands***
-
-### Contents
-#### Starters
-#### Main course
-#### Dessert
-#### Drink
